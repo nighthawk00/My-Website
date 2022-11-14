@@ -1,5 +1,14 @@
-body {
-    background: blue;
-  }
+title {
+    text-align: center;
+    font-family: fantasy;
+    font-size: larger;
+}
 
-  
+body {
+    background: lightslategray;
+}
+
+h1 {
+    text-align: center;
+    font-family: cursive;
+}
